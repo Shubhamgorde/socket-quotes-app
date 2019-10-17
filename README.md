@@ -8,14 +8,14 @@ Below software needs to be installed:
 1. NodeJs [here] (https://nodejs.org/en/download/)
 2. Npm 
 3. Angular cli installed : You need angular cli to be installed
-   npm install -g @angular/cli
+   - npm install -g @angular/cli
 
 ## How to run
 
 1. Go to src. Run below commands
 
-   npm install
-   ng serve
+   - npm install
+   - ng serve
 
 ## Folder structure
 
